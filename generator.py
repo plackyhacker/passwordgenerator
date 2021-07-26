@@ -26,4 +26,4 @@ for y in range(count):
 
 	password = password + str(rnd)
 	
-print(password)
+	print(password)
